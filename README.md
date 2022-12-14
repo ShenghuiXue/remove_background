@@ -1,6 +1,6 @@
 # remove_background
 
-remove the backgound of a JPEG (maybe also png) image. 
+remove the background of a JPEG (maybe also png) image. 
 
 ## Setup
   * install python3
@@ -9,7 +9,7 @@ remove the backgound of a JPEG (maybe also png) image.
   pip install rembg
   ```
 
-## Remove backgroupd
+## Remove background
 * save the input images from the input directory
 * run 
   ```shell
